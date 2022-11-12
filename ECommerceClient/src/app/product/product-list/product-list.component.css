@@ -1,0 +1,12 @@
+.current-price{
+    color: rgb(209, 122, 8);
+    font-weight: bold;
+}
+
+.prev-price{
+    text-decoration: line-through;
+}
+
+.product-list-card-img{
+    height: 150px;
+}
